@@ -1,1 +1,2 @@
-console.log('I am the first');
+const name = "Atesz";
+console.log(`${name} the first `);
