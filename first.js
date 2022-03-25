@@ -1,1 +1,2 @@
-console.log('I am the first');
+const participant = "Codecoolers"
+console.log(`${participant} the first`);
