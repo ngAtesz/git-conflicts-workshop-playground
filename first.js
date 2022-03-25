@@ -1,2 +1,3 @@
 const participant = "Codecoolers"
-console.log(`${participant} the first`);
+const name = "Atesz";
+console.log(`${participant} first, ${name} second`);
